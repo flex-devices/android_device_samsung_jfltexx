@@ -1,8 +1,8 @@
 [
 {
     "remote":"github",
-    "repository": "TJSteveMX/android_device_samsung_jf-common",
-"target_path": "device/samsung/jf-common",
-"revision":"cm-12.1"
+    "repository": "flex-devices/android_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+    "revision":"lp5.1"
 }
 ]
